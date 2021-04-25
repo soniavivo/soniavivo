@@ -24,7 +24,7 @@ sections:
           ###### Co founder&#xA;
 
 
-          ![](/images/cropped-svivo_favicon\_512px.png)
+          ![](/images/logo-1.svg)
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
