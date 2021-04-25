@@ -10,7 +10,7 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items: []
     type: grid_section
   - type: grid_section
