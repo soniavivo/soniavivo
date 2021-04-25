@@ -37,7 +37,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: 'Tell me a bit about your project, timeline, budget and goals'
+        default_value: 'Tell me a bit about your project, timeline, budget and goals.'
       - input_type: checkbox
         name: consent
         label: >-
