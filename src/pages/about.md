@@ -91,7 +91,7 @@ sections:
             icon: twitter
             new_window: true
       - title: Gordon Norman
-        image: images/team-3.png
+        image: images/logo-2.svg
         subtitle: Creative Producer
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
