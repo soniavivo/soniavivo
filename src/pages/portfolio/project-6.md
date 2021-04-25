@@ -9,7 +9,7 @@ sections:
     image: images/work-photography-magazine-1.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
-    width: wide
+    width: regular
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
