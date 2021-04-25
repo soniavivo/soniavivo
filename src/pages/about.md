@@ -48,7 +48,6 @@ sections:
         actions: []
         type: grid_item
       - title: Outside work
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
