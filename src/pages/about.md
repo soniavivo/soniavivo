@@ -10,7 +10,7 @@ sections:
     image_alt: Our team in the meeting room
   - col_number: two
     grid_items:
-      - title: lorem-ipsum
+      - title: My statement
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
