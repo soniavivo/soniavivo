@@ -50,6 +50,7 @@ models:
           - blue
           - violet
           - yellow
+          - sonia-salmon
         default: pink
         required: true
       - type: enum
