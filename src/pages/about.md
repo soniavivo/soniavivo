@@ -14,7 +14,6 @@ sections:
     col_number: three
     grid_items:
       - image: images/logo-1.svg
-        subtitle: 'Co-Founder, Creative Director'
         content: >
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
