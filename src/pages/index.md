@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "I am a Brand and Motion Designer based in London.My passion is\_solving problems,\_hands-on art direction\_and\_materializing ideas."
+    title: "I am a Brand and Motion Designer based in London. My passion is\_solving problems,\_hands-on art direction\_and\_materializing ideas."
     content: >
       This is the default title.
 
