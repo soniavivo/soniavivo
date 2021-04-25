@@ -28,7 +28,7 @@ sections:
               https://drive.google.com/file/d/1ioChdAvyNjkVGi0DD9iYAP-d9ic03Gu_/view?usp=sharing
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: grid_item
