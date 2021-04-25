@@ -5,13 +5,6 @@ sections:
   - type: hero_section
     section_id: hero
     title: "I am a Brand and Motion Designer based in London. My passion is\_solving problems,\_hands-on art direction\_and\_materializing ideas."
-    content: >
-      This is the default title.
-
-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
