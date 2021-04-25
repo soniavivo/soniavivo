@@ -8,8 +8,7 @@ sections:
       a hybrid integrated designer specialized in branding and motion design.
     image: images/360head.gif
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
-    col_number: two
+  - col_number: two
     grid_items: []
     type: grid_section
   - type: grid_section
