@@ -79,7 +79,7 @@ sections:
             icon: twitter
             new_window: true
       - title: Hilary Ouse
-        image: images/team-2.png
+        image: images/logo-4.svg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
