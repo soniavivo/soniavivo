@@ -23,7 +23,7 @@ sections:
           opportunities. Therefore to innovate, communicate, and make a better
           world”.
         actions:
-          - label: DSES eeS
+          - label: Click here to see my CV
             url: '#'
             style: button
             icon: youtube
