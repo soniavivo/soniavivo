@@ -13,8 +13,7 @@ sections:
     title: Testimonials
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
-        content: >
+      - content: >
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
 
