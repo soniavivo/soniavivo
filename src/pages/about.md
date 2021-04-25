@@ -24,7 +24,8 @@ sections:
           world”.
         actions:
           - label: Click here to see my CV
-            url: '#'
+            url: >-
+              https://drive.google.com/file/d/1ioChdAvyNjkVGi0DD9iYAP-d9ic03Gu_/view?usp=sharing
             style: button
             icon: dribbble
             new_window: false
