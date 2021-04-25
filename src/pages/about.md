@@ -21,12 +21,13 @@ sections:
           euismod nisi porta lorem mollis.
 
 
+          #### Gustav Purpleson
 
 
-          ### Gustav Purpleson
+          ###### Co founder&#xA;
 
 
-          #### Co founder&#xA;
+          ![](/images/cropped-svivo_favicon\_512px.png)
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
