@@ -11,7 +11,6 @@ sections:
   - col_number: two
     grid_items:
       - title: My statement
-        image_alt: lorem-ipsum
         content: >
           As a designer, I like to solve problems and daily challenges, either
           conceptual or technicals. I have an analytical, human, and strategic
