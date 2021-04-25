@@ -23,7 +23,7 @@ sections:
           opportunities. Therefore to innovate, communicate, and make a better
           world”.
         actions:
-          - label: ' eeS'
+          - label: DSES eeS
             url: '#'
             style: button
             icon: youtube
