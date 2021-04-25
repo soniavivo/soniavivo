@@ -26,7 +26,7 @@ sections:
           - label: lorem-ipsum
             url: '#'
             style: icon
-            icon: github
+            icon: youtube
             new_window: false
             no_follow: false
             type: action
