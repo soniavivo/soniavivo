@@ -34,17 +34,17 @@ sections:
         type: grid_item
       - title: At work
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          I am serious, focused, direct, and empathetic. But also friendly, with
+          good humor, a big smile, and enthusiasm.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I am looking to use my 4 years of experience in Design and Advertising
+          to create remindful brand stories. Collaborate daily with creatives,
+          and learn from challenges and clients daily.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Looking forward to challenges in a permanent or freelance role.
         actions: []
         type: grid_item
     type: grid_section
