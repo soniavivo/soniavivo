@@ -67,7 +67,7 @@ sections:
     col_number: three
     grid_items:
       - title: Gustav Purpleson
-        image: images/team-1.png
+        image: images/logo-1.svg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
