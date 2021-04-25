@@ -25,7 +25,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: button
+            style: icon
             icon: github
             new_window: false
             no_follow: false
