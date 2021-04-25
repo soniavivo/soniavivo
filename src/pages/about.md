@@ -47,7 +47,7 @@ sections:
           Looking forward to challenges in a permanent or freelance role.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Outside work
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
