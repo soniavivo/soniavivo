@@ -7,7 +7,7 @@ sections:
     title: "I am a Brand and Motion Designer based in London. My passion is\_solving problems,\_hands-on art direction\_and\_materializing ideas."
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title: Recent Work
     subtitle: Explore case studies
     projects_number: 6
