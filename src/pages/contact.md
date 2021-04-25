@@ -32,7 +32,7 @@ sections:
         default_value: Please select
         options:
           - Branding
-          - Design
+          - Animation
           - Digital
       - input_type: textarea
         name: message
