@@ -11,7 +11,6 @@ sections:
   - col_number: two
     grid_items:
       - title: My statement
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
