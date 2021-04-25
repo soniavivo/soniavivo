@@ -70,5 +70,6 @@
         ]
     },
     "title": "Sonia Vivo Design",
-    "domain": "https://soniavivo.netlify.app"
+    "domain": "https://soniavivo.netlify.app",
+    "favicon": "images/cropped-svivo_favicon_512px.png"
 }
