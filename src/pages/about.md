@@ -22,7 +22,14 @@ sections:
           solver. I use design as a tool for research, identify needs and
           opportunities. Therefore to innovate, communicate, and make a better
           world”.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: grid_section
   - type: grid_section
