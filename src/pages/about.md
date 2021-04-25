@@ -23,7 +23,7 @@ sections:
           opportunities. Therefore to innovate, communicate, and make a better
           world”.
         actions:
-          - label: lorem-ipsum
+          - label: ' eeS'
             url: '#'
             style: button
             icon: youtube
