@@ -33,7 +33,6 @@ sections:
             type: action
         type: grid_item
       - title: At work
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
