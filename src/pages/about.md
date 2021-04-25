@@ -8,58 +8,6 @@ sections:
       a hybrid integrated designer specialized in branding and motion design.
     image: images/360head.gif
     image_alt: Our team in the meeting room
-  - col_number: two
-    grid_items:
-      - title: My statement
-        content: >
-          As a designer, I like to solve problems and daily challenges, either
-          conceptual or technicals. I have an analytical, human, and strategic
-          approach. For me context, function, and visual appealing are
-          essential.
-
-
-          “When it comes to my work, I like to define myself as a Problem
-          solver. I use design as a tool for research, identify needs and
-          opportunities. Therefore to innovate, communicate, and make a better
-          world”.
-        actions:
-          - label: Click here to see my CV
-            url: >-
-              https://drive.google.com/file/d/1ioChdAvyNjkVGi0DD9iYAP-d9ic03Gu_/view?usp=sharing
-            style: button
-            icon: dribbble
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
-      - title: At work
-        image_alt: lorem-ipsum
-        content: >
-          I am serious, focused, direct, and empathetic. But also friendly, with
-          good humor, a big smile, and enthusiasm.
-
-
-          I am looking to use my 4 years of experience in Design and Advertising
-          to create remindful brand stories. Collaborate daily with creatives,
-          and learn from challenges and clients daily.
-
-
-          Looking forward to challenges in a permanent or freelance role.
-        actions: []
-        type: grid_item
-      - title: Outside work
-        image_alt: lorem-ipsum
-        content: >
-          I recharge my creative mind, body, and soul by learning new things and
-          exercising. I am currently learning: how to sing, tap dancing, sewing,
-          and tuning my skills in animation.
-
-
-          When I am outdoors, I like exploring London with my bike and visiting
-          art galleries.
-        actions: []
-        type: grid_item
-    type: grid_section
   - type: grid_section
     section_id: team
     title: Testimonials
@@ -135,6 +83,58 @@ sections:
             style: icon
             icon: twitter
             new_window: true
+  - col_number: two
+    grid_items:
+      - title: My statement
+        content: >
+          As a designer, I like to solve problems and daily challenges, either
+          conceptual or technicals. I have an analytical, human, and strategic
+          approach. For me context, function, and visual appealing are
+          essential.
+
+
+          “When it comes to my work, I like to define myself as a Problem
+          solver. I use design as a tool for research, identify needs and
+          opportunities. Therefore to innovate, communicate, and make a better
+          world”.
+        actions:
+          - label: Click here to see my CV
+            url: >-
+              https://drive.google.com/file/d/1ioChdAvyNjkVGi0DD9iYAP-d9ic03Gu_/view?usp=sharing
+            style: button
+            icon: dribbble
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: At work
+        image_alt: lorem-ipsum
+        content: >
+          I am serious, focused, direct, and empathetic. But also friendly, with
+          good humor, a big smile, and enthusiasm.
+
+
+          I am looking to use my 4 years of experience in Design and Advertising
+          to create remindful brand stories. Collaborate daily with creatives,
+          and learn from challenges and clients daily.
+
+
+          Looking forward to challenges in a permanent or freelance role.
+        actions: []
+        type: grid_item
+      - title: Outside work
+        image_alt: lorem-ipsum
+        content: >
+          I recharge my creative mind, body, and soul by learning new things and
+          exercising. I am currently learning: how to sing, tap dancing, sewing,
+          and tuning my skills in animation.
+
+
+          When I am outdoors, I like exploring London with my bike and visiting
+          art galleries.
+        actions: []
+        type: grid_item
+    type: grid_section
   - type: cta_section
     section_id: cta
     title: Become a Team Player
