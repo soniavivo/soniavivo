@@ -49,17 +49,14 @@ sections:
         type: grid_item
       - title: Outside work
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          I recharge my creative mind, body, and soul by learning new things and
+          exercising. I am currently learning: how to sing, tap dancing, sewing,
+          and tuning my skills in animation.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          When I am outdoors, I like exploring London with my bike and visiting
+          art galleries.
         actions: []
         type: grid_item
     type: grid_section
