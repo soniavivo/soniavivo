@@ -24,6 +24,10 @@ sections:
           ###### Co founder&#xA;
 
 
+
+
+
+
           ![](/images/logo-1.svg)
         actions:
           - label: Twitter
