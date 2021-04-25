@@ -89,4 +89,10 @@ sections:
     image_alt: Illustration
     bg_color: light
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
