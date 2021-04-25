@@ -33,7 +33,6 @@ sections:
         options:
           - Branding
           - Animation
-          - Digital
       - input_type: textarea
         name: message
         label: Message
