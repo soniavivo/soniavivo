@@ -108,7 +108,7 @@ sections:
             icon: instagram
             new_window: true
       - title: Parsley Montana
-        image: images/team-4.png
+        image: images/logo-1.svg
         subtitle: 'Senior Designer, Motion Graphics'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
