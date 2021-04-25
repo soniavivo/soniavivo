@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+    title: "I am a Brand and Motion Designer based in London.My passion is\_solving problems,\_hands-on art direction\_and\_materializing ideas."
     content: >
       This is the default title.
 
