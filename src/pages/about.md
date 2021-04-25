@@ -3,15 +3,9 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: >
+      Hola! my name is Sonia Vivo. I am a Spanish designer based in London. I am
+      a hybrid integrated designer specialized in branding and motion design.
     image: images/360head.gif
     image_alt: Our team in the meeting room
   - type: grid_section
