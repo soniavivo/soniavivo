@@ -125,7 +125,7 @@ sections:
             icon: instagram
             new_window: true
       - title: Brandon Guidelines
-        image: images/team-5.png
+        image: images/logo.svg
         subtitle: Graphic Designer
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
