@@ -26,7 +26,7 @@ sections:
           - label: Click here to see my CV
             url: '#'
             style: button
-            icon: youtube
+            icon: dribbble
             new_window: false
             no_follow: false
             type: action
