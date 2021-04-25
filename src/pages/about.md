@@ -12,17 +12,17 @@ sections:
     grid_items:
       - title: My statement
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          As a designer, I like to solve problems and daily challenges, either
+          conceptual or technicals. I have an analytical, human, and strategic
+          approach. For me context, function, and visual appealing are
+          essential.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          “When it comes to my work, I like to define myself as a Problem
+          solver. I use design as a tool for research, identify needs and
+          opportunities. Therefore to innovate, communicate, and make a better
+          world”.
         actions: []
         type: grid_item
     type: grid_section
