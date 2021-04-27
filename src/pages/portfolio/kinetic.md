@@ -7,7 +7,7 @@ thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: images/about.jpg
   - content: >+
