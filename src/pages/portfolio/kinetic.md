@@ -12,4 +12,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: project
+thumb_image: images/about.jpg
 ---
