@@ -1,7 +1,8 @@
 ---
-title: Nature Magazine
+title: Nature Magazine Animation
 subtitle: Editorial Design
 date: '2021-01-10'
+type: animation
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
 sections:

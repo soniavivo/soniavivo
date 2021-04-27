@@ -329,6 +329,16 @@ models:
         name: date
         label: Date
         required: true
+      - type: enum
+        name: type
+        label: Project type
+        description: The type of the project
+        options:
+          - animation
+          - branding
+          - design
+        default: animation
+        required: true
       - type: image
         name: thumb_image
         label: Thumbnail image
@@ -513,6 +523,10 @@ models:
           - tiles
         default: mosaic
         required: true
+      - type: boolean
+        name: show_filters
+        label: Show category filters
+        default: true
       - type: number
         name: projects_number
         label: Number of projects to display

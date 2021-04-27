@@ -8,9 +8,10 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
+    show_filters: true
     title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
+    subtitle: Explore projects for selected category
+    projects_number: 9
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
@@ -22,7 +23,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Logo 1
       - image: images/logo-2.svg
-        image_alt: Logo 2
+        image_alt: Logo 2x
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg

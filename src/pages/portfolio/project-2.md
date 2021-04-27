@@ -1,7 +1,8 @@
 ---
-title: Aimi
+title: Brando one
 subtitle: Brand Development
 date: '2020-03-10'
+type: branding
 thumb_image: images/work-branding-1-thumb.jpg
 thumb_image_alt: Aimi preview
 sections:

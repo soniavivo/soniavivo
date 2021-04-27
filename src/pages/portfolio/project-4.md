@@ -2,6 +2,7 @@
 title: Nature Mockup Magazine
 subtitle: Editorial Design
 date: '2020-05-10'
+type: design
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
