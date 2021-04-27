@@ -10,7 +10,7 @@ sections:
     width: regular
     type: image_section
     image: images/about.jpg
-  - content: >-
+  - content: >+
       ## Lorem ipsum
 
 
@@ -18,9 +18,46 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      Hello this is new text
+
+
+      This is **bold **text.
+
+
+      Do you think this is cool?
+
+
+      ### Yes this is new section
+
+
+      Oh no!
+
+
+      > And Damian said this is cool
+
+
+      *   Point
+
+
+      *   Another point
+
+
+      1.  sdfsd
+          sdf
+
+      2.  Secong
+
+
+      3.  ![](/images/logo-1.svg)
+
+
+
+
     type: text_section
 seo:
   title: ''
