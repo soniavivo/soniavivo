@@ -1,6 +1,6 @@
 ---
 title: Raylo
-subtitle: lorem-ipsum
+subtitle: Social media + Motion design
 date: '2021-04-27'
 type: animation
 thumb_image_alt: lorem-ipsum
