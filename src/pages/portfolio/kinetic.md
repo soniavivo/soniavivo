@@ -6,7 +6,7 @@ type: animation
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
-    caption: Black Friday 2020
+    caption: 'Black Friday 2020, Paid Ad'
     width: wide
     type: image_section
     image: images/about.jpg
