@@ -1,5 +1,5 @@
 ---
-title: Subtle
+title: Freddie's Flowers
 subtitle: Brand Development
 date: '2021-02-06'
 type: branding
