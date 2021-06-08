@@ -1,6 +1,6 @@
 ---
 title: Freddie's Flowers
-subtitle: Brand Development
+subtitle: Social media + Motion graphics
 date: '2021-02-06'
 type: branding
 thumb_image: images/work-photography-magazine-1-thumb.jpg
