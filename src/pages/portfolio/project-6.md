@@ -9,7 +9,7 @@ sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Subtle 1
-    caption: Logo
+    caption: Logotype animation
     width: wide
   - type: text_section
     content: >-
