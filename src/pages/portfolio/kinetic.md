@@ -1,6 +1,6 @@
 ---
 title: Freddie's Flowers
-subtitle: Social media Paid ads
+subtitle: Paid ads
 date: '2021-04-27'
 type: animation
 thumb_image_alt: lorem-ipsum
