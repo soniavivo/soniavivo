@@ -66,5 +66,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: project
-thumb_image: images/ff_cover_768x768-4cf03785.gif
+thumb_image: images/about.jpg
 ---
