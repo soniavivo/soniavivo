@@ -1,5 +1,5 @@
 ---
-title: Raylo
+title: Freddie's Flowers
 subtitle: Social media + Motion design
 date: '2021-04-27'
 type: animation
