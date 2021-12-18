@@ -6,7 +6,7 @@ sections:
     content: >
       Hola! my name is Sonia Vivo. I am a Spanish designer based in London. I am
       a hybrid integrated designer specialized in branding and motion design.
-    image: images/360head.gif
+    image: images/photo_profile.png
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
