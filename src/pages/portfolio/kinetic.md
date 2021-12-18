@@ -9,7 +9,7 @@ sections:
     caption: 'Black Friday 2020, Paid Ad'
     width: wide
     type: image_section
-    image: images/about.jpg
+    image: images/ff_cover_768x768.gif
   - content: >+
       ## Lorem ipsum
 
